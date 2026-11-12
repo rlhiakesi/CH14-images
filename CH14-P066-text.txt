@@ -1,0 +1,23 @@
+CH14 PAGE 066 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P066-N01
+[SILENT — NO LETTERING]
+
+CH14-P066-N02
+SPEECH | Brienmay | IDs: CH14-P045-S02-U001
+(Brienmay: "We have demonstrated feasibility. We have not solved operational flight.")
+
+CH14-P066-N03
+SPEECH | Assistant | IDs: CH14-P045-S03-U001
+(Assistant: "At once, Professor.")
+
+CH14-P066-N04
+SPEECH | Midori | IDs: CH14-P045-S04-U001
+(Midori: "So the research isn't finished.")
+SPEECH | Brienmay | IDs: CH14-P045-S04-U002
+(Brienmay: "No. We have learned which questions matter next.")
+
+CH14-P066-N05
+NARRATION | - | IDs: CH14-P045-S05-N001
+Narration: "The third mon ended. The work would continue."

@@ -1,0 +1,23 @@
+CH14 PAGE 038 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P038-N01
+SPEECH | Veteran B | IDs: CH14-P024-S04-U001, CH14-P024-S04-CHAIN001
+(Veteran B: "Light barrier."
+-> "Enough to stop one shell.")
+SPEECH | Veteran B | IDs: CH14-P024-S04-U002
+(Veteran B: "Now watch the engineers.")
+
+CH14-P038-N02
+SOUND | - | IDs: CH14-P024-S05-SFX001
+Sound: Rrrrrrrmble...
+
+CH14-P038-N03
+SPEECH | Frontier Garrison Officer | IDs: CH14-P024-S06-U001
+(Frontier Garrison Officer: "Counterbattery!")
+
+CH14-P038-N04
+[SILENT — NO LETTERING]
+
+CH14-P038-N05
+[SILENT — NO LETTERING]

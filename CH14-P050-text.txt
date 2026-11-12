@@ -1,0 +1,12 @@
+CH14 PAGE 050 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P050-N01
+NARRATION | - | IDs: CH14-P033-S01-N001
+Narration: "Over the following several days..."
+
+CH14-P050-N02
+SPEECH | Brienmay | IDs: CH14-P033-S02-U001
+(Brienmay: "Same stone. Same height. Same supporting force. Yet each additional interval costs more mana than the last.")
+SPEECH | Midori | IDs: CH14-P033-S02-U002
+(Midori: "So the cost depends on how long Dark Magic has been used—not just on the weight.")

@@ -1,0 +1,21 @@
+CH14 PAGE 002 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P002-N01
+SOUND | - | IDs: CH14-P001-S04-SFX001
+Sound: Rinnnnnnng...
+
+CH14-P002-N02
+SPEECH | Celeste | IDs: CH14-P001-S05-U001
+(Celeste: "Second-year students.")
+SPEECH | Celeste | IDs: CH14-P001-S05-U002
+(Celeste: "Congratulations.")
+SPEECH | Celeste | IDs: CH14-P001-S05-U003
+(Celeste: "You survived your first year.")
+
+CH14-P002-N03
+SPEECH | Celeste | IDs: CH14-P001-S06-U001
+(Celeste: "The Academy taught you how to use magic.")
+SPEECH | Celeste | IDs: CH14-P001-S06-U002, CH14-P001-S06-CHAIN001
+(Celeste: "This year..."
+-> "...you will learn how to fight a war.")

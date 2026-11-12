@@ -1,0 +1,20 @@
+CH14 PAGE 021 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P021-N01
+NARRATION | - | IDs: CH14-P011-S01-N001
+Narration: "Three weks later..."
+
+CH14-P021-N02
+SOUND | - | IDs: CH14-P011-S02-SFX001
+Sound: FWOOM!
+
+CH14-P021-N03
+SPEECH | Midori | IDs: CH14-P011-S03-U001
+(Midori: "I knew exactly how much Fire to use.")
+SPEECH | Celeste | IDs: CH14-P011-S03-U002
+(Celeste: "Until you were frightened. Your technique is excellent; your composure is not.")
+
+CH14-P021-N04
+SPEECH | Celeste | IDs: CH14-P011-S04-U001
+(Celeste: "Again. Control yourself before you control the spell.")

@@ -1,0 +1,20 @@
+CH14 PAGE 044 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P044-N01
+SPEECH | Mirel | IDs: CH14-P027-S03-U001
+(Mirel: "We held the fortress. Repairs will take all night.")
+SPEECH | Beli | IDs: CH14-P027-S03-U-ADD001
+(Beli: "I thought about my mother today. Even the best healer cannot undo every loss.")
+SPEECH | Beli | IDs: CH14-P027-S03-U-ADD002
+(Beli: "Buren keeps saying it is better to prevent the injury than repair it afterward.")
+SPEECH | Beli | IDs: CH14-P027-S03-U-ADD003
+(Beli: "I used to think that was an engineer’s way of looking at things. Now I understand.")
+SPEECH | Midori | IDs: CH14-P027-S03-U-ADD004
+(Midori: "If someone could reach the danger before the attack... perhaps fewer people would need healing.")
+
+CH14-P044-N02
+SPEECH | Midori | IDs: CH14-P027-S04-U001
+(Midori: "We could reach their guns. But not the aircraft.")
+SPEECH | Brienmay | IDs: CH14-P027-S04-U002
+(Brienmay: "Not reliably.")

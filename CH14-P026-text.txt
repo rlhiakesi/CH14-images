@@ -1,0 +1,22 @@
+CH14 PAGE 026 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P026-N01
+NARRATION | - | IDs: CH14-P016-S01-N001
+Narration: "Several days later..."
+SPEECH | Brienmay | IDs: CH14-P016-S01-U001
+(Brienmay: "Miss Midori, would you like to see where our unanswered questions go?")
+
+CH14-P026-N02
+SPEECH | Brienmay | IDs: CH14-P016-S02-U001
+(Brienmay: "We already measure and repeat. But sometimes we ask the wrong question.")
+
+CH14-P026-N03
+SPEECH | Midori | IDs: CH14-P016-S03-U001
+(Midori: "Could we hold one constant? Then we'd know which change matters.")
+SPEECH | Researcher A | IDs: CH14-P016-S03-U002
+(Researcher A: "We've suspected an interaction. Let's separate the effects.")
+
+CH14-P026-N04
+SPEECH | Brienmay | IDs: CH14-P016-S04-U001
+(Brienmay: "Then help us test it.")

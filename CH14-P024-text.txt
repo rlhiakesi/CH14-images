@@ -1,0 +1,18 @@
+CH14 PAGE 024 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P024-N01
+NARRATION | - | IDs: CH14-P014-S01-N001
+Narration: "The third yur began."
+SPEECH | Ashire | IDs: CH14-P014-S01-U001
+(Ashire: "Today you advance from Novice to Apprentice.")
+
+CH14-P024-N02
+SPEECH | Ashire | IDs: CH14-P014-S02-U001
+(Ashire: "You may now undertake advanced study and supervised field exercises. You have not finished learning.")
+
+CH14-P024-N03
+SPEECH | Kenee | IDs: CH14-P014-S03-U001
+(Kenee: "Still students, then.")
+SPEECH | Midori | IDs: CH14-P014-S03-U002
+(Midori: "I think we always will be.")

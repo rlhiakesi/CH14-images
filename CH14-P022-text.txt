@@ -1,0 +1,24 @@
+CH14 PAGE 022 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P022-N01
+NARRATION | - | IDs: CH14-P012-S01-N001
+Narration: "Two mons into the second yur..."
+
+CH14-P022-N02
+NARRATION | - | IDs: CH14-P012-S02-N001
+Narration: "Several weks later..."
+SPEECH | Beli | IDs: CH14-P012-S02-U001
+(Beli: "We move the wounded before the next volley.")
+
+CH14-P022-N03
+SPEECH | Celeste | IDs: CH14-P012-S03-U001
+(Celeste: "Better.")
+
+CH14-P022-N04
+NARRATION | - | IDs: CH14-P012-S04-N001
+Narration: "By the final mon of the second yur..."
+SPEECH | Buren | IDs: CH14-P012-S04-U001
+(Buren: "Every civilian accounted for.")
+SPEECH | Celeste | IDs: CH14-P012-S04-U002
+(Celeste: "Mission accomplished.")

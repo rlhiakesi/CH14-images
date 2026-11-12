@@ -1,0 +1,24 @@
+CH14 PAGE 020 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P020-N01
+SPEECH | Celeste | IDs: CH14-P010-S01-U001
+(Celeste: "Mission failed.")
+
+CH14-P020-N02
+SPEECH | Academy Training Officer | IDs: CH14-P010-S02-U001
+(Academy Training Officer: "Your reconnaissance was accurate. Your defenses were strong. Your treatment was effective.")
+SPEECH | Academy Training Officer | IDs: CH14-P010-S02-U002
+(Academy Training Officer: "But your response reached the civilians forty-three secs too late.")
+
+CH14-P020-N03
+SPEECH | Buren | IDs: CH14-P010-S03-U001
+(Buren: "I was protecting the bridge.")
+SPEECH | Midori | IDs: CH14-P010-S03-U002
+(Midori: "We were supposed to protect the people.")
+
+CH14-P020-N04
+SPEECH | Celeste | IDs: CH14-P010-S04-U001
+(Celeste: "Individual brilliance cannot erase a failed mission.")
+SPEECH | Celeste | IDs: CH14-P010-S04-U002
+(Celeste: "Learn from it.")

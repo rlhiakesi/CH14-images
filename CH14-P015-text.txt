@@ -1,0 +1,30 @@
+CH14 PAGE 015 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P015-N01
+SPEECH | Kenee | IDs: CH14-P007-S04-U001, CH14-P007-S04-CHAIN001, CH14-P007-S04-CHAIN002
+(Kenee: "Midori!"
+-> "A second column!"
+-> "They're trying to flank us!")
+
+CH14-P015-N02
+SPEECH | Midori | IDs: CH14-P007-S05-U001, CH14-P007-S05-CHAIN001
+(Midori: "Buren!"
+-> "Leave the bridge!")
+
+CH14-P015-N03
+SPEECH | Buren | IDs: CH14-P007-S05-U002
+(Buren: "What?")
+SPEECH | Midori | IDs: CH14-P007-S05-U003, CH14-P007-S05-CHAIN002
+(Midori: "The bridge isn't the objective!"
+-> "The civilians are!")
+
+CH14-P015-N04
+[SILENT — NO LETTERING]
+
+CH14-P015-N05
+SPEECH | Buren | IDs: CH14-P007-S06-U001
+(Buren: "...Right.")
+
+CH14-P015-N06
+[SILENT — NO LETTERING]

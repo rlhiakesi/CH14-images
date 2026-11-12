@@ -1,0 +1,31 @@
+CH14 PAGE 013 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P013-N01
+SPEECH | Kenee | IDs: CH14-P006-S04-U001, CH14-P006-S04-CHAIN001
+(Kenee: "They could..."
+-> "...if nobody warned us.")
+
+CH14-P013-N02
+SPEECH | Beli | IDs: CH14-P006-S04-U002
+(Beli: "Then we need scouts.")
+SPEECH | Beli | IDs: CH14-P006-S04-U003
+(Beli: "Someone has to watch both crossings.")
+
+CH14-P013-N03
+SPEECH | Academy Training Officer | IDs: CH14-P006-S05-U001
+(Academy Training Officer: "Interesting.")
+SPEECH | Celeste | IDs: CH14-P006-S05-U002
+(Celeste: "What is?")
+SPEECH | Academy Training Officer | IDs: CH14-P006-S05-U003
+(Academy Training Officer: "None of them suggested attacking.")
+
+CH14-P013-N04
+SPEECH | Academy Training Officer | IDs: CH14-P006-S05-U004
+(Academy Training Officer: "They're discussing the mission.")
+
+CH14-P013-N05
+SOUND | - | IDs: CH14-P006-S06-SFX001
+Sound: Booooong...
+SPEECH | Celeste | IDs: CH14-P006-S06-U001
+(Celeste: "Take your positions.")

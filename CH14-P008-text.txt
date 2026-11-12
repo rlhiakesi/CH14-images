@@ -1,0 +1,18 @@
+CH14 PAGE 008 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P008-N01
+SPEECH | Celeste | IDs: CH14-P003-S06-U001
+(Celeste: "These are not targets.")
+SPEECH | Celeste | IDs: CH14-P003-S06-U002
+(Celeste: "They are your enemy.")
+
+CH14-P008-N02
+SPEECH | Celeste | IDs: CH14-P003-S06-U003, CH14-P003-S06-CHAIN001, CH14-P003-S06-CHAIN002, CH14-P003-S06-CHAIN003
+(Celeste: "Every movement..."
+-> "...every formation..."
+-> "...every volley..."
+-> "...has been reconstructed from reports brought back by Battle Mages serving at the front.")
+SPEECH | Celeste | IDs: CH14-P003-S06-U004, CH14-P003-S06-CHAIN004
+(Celeste: "If you underestimate them here..."
+-> "...you will underestimate them in battle.")

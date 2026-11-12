@@ -1,0 +1,20 @@
+CH14 PAGE 054 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P054-N01
+NARRATION | - | IDs: CH14-P035-S01-N001
+Narration: "A wek into the experiments..."
+
+CH14-P054-N02
+SOUND | - | IDs: CH14-P035-S02-SFX001
+Sound: THUMP!
+SPEECH | Midori | IDs: CH14-P035-S02-U001
+(Midori: "That was much too much!")
+
+CH14-P054-N03
+SPEECH | Brienmay | IDs: CH14-P035-S03-U001
+(Brienmay: "A launch is not a hover. You must balance your weight continuously.")
+
+CH14-P054-N04
+SPEECH | Midori | IDs: CH14-P035-S04-U001
+(Midori: "Then I need to stop trying to throw myself.")

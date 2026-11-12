@@ -1,0 +1,22 @@
+CH14 PAGE 019 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P019-N01
+SPEECH | Kenee | IDs: CH14-P009-S01-U001
+(Kenee: "Enemy at the ford! Evacuation road exposed!")
+
+CH14-P019-N02
+SPEECH | Beli | IDs: CH14-P009-S02-U001
+(Beli: "Civilians hit! Medical team forward!")
+
+CH14-P019-N03
+SPEECH | Buren | IDs: CH14-P009-S03-U001
+(Buren: "We held them. The civilians got through.")
+
+CH14-P019-N04
+SPEECH | Celeste | IDs: CH14-P009-S04-U001
+(Celeste: "Eight did not get through.")
+SPEECH | Buren | IDs: CH14-P009-S04-U002
+(Buren: "But we stopped them—")
+SPEECH | Celeste | IDs: CH14-P009-S04-U003
+(Celeste: "That was not the objective.")

@@ -1,0 +1,18 @@
+CH14 PAGE 056 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P056-N01
+NARRATION | - | IDs: CH14-P037-S01-N001
+Narration: "Several days later..."
+
+CH14-P056-N02
+SPEECH | Brienmay | IDs: CH14-P037-S02-U001
+(Brienmay: "Supporting your center of mass doesn't automatically keep you upright.")
+
+CH14-P056-N03
+SPEECH | Midori | IDs: CH14-P037-S03-U001
+(Midori: "Separate controls for lift and rotation.")
+
+CH14-P056-N04
+SPEECH | Midori | IDs: CH14-P037-S04-U001
+(Midori: "I can float. I can't behave while floating.")

@@ -1,0 +1,18 @@
+CH14 PAGE 011 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P011-N01
+SPEECH | Celeste | IDs: CH14-P005-S01-U001
+(Celeste: "Evacuate every civilian. If civilians are lost, the mission fails.")
+
+CH14-P011-N02
+SPEECH | Academy Training Officer | IDs: CH14-P005-S02-U001
+(Academy Training Officer: "Buren, command this combined detachment. Midori, mobile response. Kenee, reconnaissance and Wind signaling. Beli, casualty coordination.")
+
+CH14-P011-N03
+SPEECH | Academy Training Officer | IDs: CH14-P005-S03-U001
+(Academy Training Officer: "An order that never arrives is no order at all.")
+
+CH14-P011-N04
+SPEECH | Celeste | IDs: CH14-P005-S04-U001
+(Celeste: "Fifteen minutes to prepare. Protect them.")

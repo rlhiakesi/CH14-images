@@ -1,0 +1,16 @@
+CH14 PAGE 017 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P017-N01
+SPEECH | Beli | IDs: CH14-P008-S02-U001, CH14-P008-S02-CHAIN001
+(Beli: "Green wounds stay in position."
+-> "Yellow, reload and stay under cover.")
+SPEECH | Beli | IDs: CH14-P008-S02-U002, CH14-P008-S02-CHAIN002, CH14-P008-S02-CHAIN003
+(Beli: "Red casualty."
+-> "You're out of the fight."
+-> "We'll get you home.")
+
+CH14-P017-N02
+SPEECH | Kenee | IDs: CH14-P008-S03-U001, CH14-P008-S03-CHAIN001
+(Kenee: "They're across!"
+-> "They're heading for the civilians!")

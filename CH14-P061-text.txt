@@ -1,0 +1,18 @@
+CH14 PAGE 061 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P061-N01
+NARRATION | - | IDs: CH14-P041-S01-N001
+Narration: "During the following wek..."
+
+CH14-P061-N02
+SPEECH | Brienmay | IDs: CH14-P041-S02-U001
+(Brienmay: "Again—but after a proper cooldown. We need reliable control, not a lucky landing.")
+
+CH14-P061-N03
+SPEECH | Midori | IDs: CH14-P041-S03-U001
+(Midori: "I'm learning to correct the movement without fighting myself.")
+
+CH14-P061-N04
+SPEECH | Brienmay | IDs: CH14-P041-S04-U001
+(Brienmay: "Now we're ready for an observed demonstration. Vertical movement only.")

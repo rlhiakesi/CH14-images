@@ -1,0 +1,18 @@
+CH14 PAGE 065 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P065-N01
+SPEECH | Brienmay | IDs: CH14-P044-S03-U001
+(Brienmay: "With your extraordinary capacity and Dark affinity, perhaps one heror at most under favorable conditions.")
+SPEECH | Midori | IDs: CH14-P044-S03-U002
+(Midori: "And the cost keeps climbing as I fly.")
+
+CH14-P065-N02
+SPEECH | Brienmay | IDs: CH14-P044-S04-U001
+(Brienmay: "Yes. A short interruption won't reset your recent-use burden. A proper cooldown lowers that burden, but refilling your mana is a separate, slower process.")
+
+CH14-P065-N03
+SPEECH | Midori | IDs: CH14-P044-S05-U001
+(Midori: "If I spend it all flying, I won't have enough left to fight—or get home.")
+SPEECH | Brienmay | IDs: CH14-P044-S05-U002
+(Brienmay: "Which is why these are limits, not promises of safe flight duration.")

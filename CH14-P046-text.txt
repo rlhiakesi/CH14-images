@@ -1,0 +1,22 @@
+CH14 PAGE 046 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P046-N01
+SPEECH | Brienmay | IDs: CH14-P029-S01-U001
+(Brienmay: "Levitation is ancient. Builders use it every day, and Jeremiel demonstrated it centuries before the Temple of Light existed.")
+
+CH14-P046-N02
+SPEECH | Brienmay | IDs: CH14-P029-S02-U001
+(Brienmay: "A short lift is manageable. Keeping the same load aloft becomes steadily more expensive.")
+
+CH14-P046-N03
+SPEECH | Midori | IDs: CH14-P029-S03-U001
+(Midori: "The launched stone doesn't need to be held up afterward.")
+SPEECH | Brienmay | IDs: CH14-P029-S03-U002
+(Brienmay: "Exactly. Flight would demand sustained Dark Magic and constant corrections.")
+
+CH14-P046-N04
+SPEECH | Midori | IDs: CH14-P029-S04-U001
+(Midori: "Then we need to learn how the cost changes with time, not merely with weight.")
+SPEECH | Brienmay | IDs: CH14-P029-S04-U002
+(Brienmay: "And whether stopping for a heartbeat actually gives the mage any relief.")

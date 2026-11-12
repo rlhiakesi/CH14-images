@@ -1,0 +1,16 @@
+CH14 PAGE 003 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P003-N01
+SPEECH | Midori | IDs: CH14-P002-S01-U001
+(Midori: "The class seems smaller.")
+SPEECH | Beli | IDs: CH14-P002-S01-U002
+(Beli: "About one-third didn't qualify after first yur.")
+SPEECH | Midori | IDs: CH14-P002-S01-U003
+(Midori: "I knew that. It feels different seeing the empty desks.")
+
+CH14-P003-N02
+SPEECH | Celeste | IDs: CH14-P002-S02-U001
+(Celeste: "Last yur you learned to cast spells. This yur you learn when to use them.")
+SPEECH | Celeste | IDs: CH14-P002-S02-U002
+(Celeste: "Your purpose is not to display magic. It is to accomplish a mission.")

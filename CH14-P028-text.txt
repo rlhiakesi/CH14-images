@@ -1,0 +1,23 @@
+CH14 PAGE 028 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P028-N01
+NARRATION | - | IDs: CH14-P018-S01-N001
+Narration: "Late in the first mon of the third yur..."
+
+CH14-P028-N02
+SPEECH | Buren | IDs: CH14-P018-S02-U001
+(Buren: "Now, Midori!")
+
+CH14-P028-N03
+SPEECH | Brienmay | IDs: CH14-P018-S03-U001
+(Brienmay: "The Temple requests direct observation of Midori under real military conditions. I'll accompany her.")
+SPEECH | Celeste | IDs: CH14-P018-S03-U002
+(Celeste: "Observation only. She is not an Adept yet.")
+SPEECH | Brienmay | IDs: CH14-P018-S03-U003
+(Brienmay: "Agreed.")
+SPEECH | Midori | IDs: CH14-P018-S03-U-ADD001
+(Midori: "I understand. Having enough power to strike is not the same as knowing when it is safe to strike. I will stay with the observers.")
+
+CH14-P028-N04
+[SILENT — NO LETTERING]

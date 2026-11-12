@@ -1,0 +1,18 @@
+CH14 PAGE 051 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P051-N01
+SPEECH | Researcher B | IDs: CH14-P033-S03-U001
+(Researcher B: "Stopping and restarting didn't restore the original cost.")
+SPEECH | Brienmay | IDs: CH14-P033-S03-U002
+(Brienmay: "Recent Dark Magic use must matter. The burden follows the mage, not merely the spell.")
+
+CH14-P051-N02
+SPEECH | Midori | IDs: CH14-P033-S04-U001
+(Midori: "The casting cost cooled down. But the mana we spent is still gone.")
+SPEECH | Brienmay | IDs: CH14-P033-S04-U002
+(Brienmay: "Two different limits. We must measure how the accumulated recent-use burden grows—and how it fades during rest.")
+
+CH14-P051-N03
+SPEECH | Brienmay | IDs: CH14-P033-S05-U001
+(Brienmay: "A sustained Dark spell can become ruinously expensive. We have not yet established a universal equation.")

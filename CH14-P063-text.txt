@@ -1,0 +1,21 @@
+CH14 PAGE 063 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P063-N01
+NARRATION | - | IDs: CH14-P043-S01-N001
+Narration: "The following day..."
+
+CH14-P063-N02
+SPEECH | Midori | IDs: CH14-P043-S02-U001
+(Midori: "I'm moving!")
+
+CH14-P063-N03
+SPEECH | Brienmay | IDs: CH14-P043-S03-U001
+(Brienmay: "Removing thrust does not remove momentum! Apply a counterforce!")
+
+CH14-P063-N04
+[SILENT — NO LETTERING]
+
+CH14-P063-N05
+SPEECH | Brienmay | IDs: CH14-P043-S05-U001
+(Brienmay: "Lift, stabilization, thrust, and braking. Each works—and now they work together.")
