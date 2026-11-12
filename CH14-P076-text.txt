@@ -1,0 +1,22 @@
+CH14 PAGE 076 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH14-P076-N01
+NARRATION | - | IDs: CH14-P050-S01-N001
+Narration: "The final day of the third yur..."
+
+CH14-P076-N02
+SPEECH | Kenee | IDs: CH14-P050-S02-U001
+(Kenee: "Three yurs. We're finally mages.")
+SPEECH | Beli | IDs: CH14-P050-S02-U002
+(Beli: "And tomorrow's assignments are already waiting.")
+
+CH14-P076-N03
+SPEECH | Brienmay | IDs: CH14-P050-S03-U001
+(Brienmay: "Miss Midori. When you have time, there's an interesting question about reducing flight costs.")
+SPEECH | Midori | IDs: CH14-P050-S03-U002
+(Midori: "I'll be there after class, Professor.")
+
+CH14-P076-N04
+SPEECH | Midori | IDs: CH14-P050-S04-U001
+(Midori: "We keep learning—and now we help someone else learn, too.")
